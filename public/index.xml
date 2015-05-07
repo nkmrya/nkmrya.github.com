@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nakamura-Ya </title>
+    <link>https://nkmrya.github.com/</link>
+    <language>en-us</language>
+    <author>NAKAMURA Yasuhiro</author>
+    <rights>(C) 2015</rights>
+    <updated>2015-05-07 20:18:13 &#43;0900 JST</updated>
+
+    
+      
+        <item>
+          <title>中村屋オープン</title>
+          <link>https://nkmrya.github.com/blog/2015/05/07/opening/</link>
+          <pubDate>Thu, 07 May 2015 20:18:13 JST</pubDate>
+          <author>NAKAMURA Yasuhiro</author>
+          <guid>https://nkmrya.github.com/blog/2015/05/07/opening/</guid>
+          <description>
+
+&lt;p&gt;ポートフォリオサイト「中村屋」がオープンしました。皆様、これからよろしくお願いいたします。&lt;/p&gt;
+
+&lt;h2 id=&#34;経緯:3a9acb5b31e55a8e7ef449f61cd25787&#34;&gt;経緯&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://kosen10s.doorkeeper.jp/events/23895&#34;&gt;kosen10&amp;rsquo;sLT #01&lt;/a&gt;に参加した時に主催の[でなり]が一言&lt;/p&gt;
+
+&lt;p&gt;&lt;blockquote class=&#34;twitter-tweet&#34; lang=&#34;ja&#34;&gt;&lt;p lang=&#34;ja&#34; dir=&#34;ltr&#34;&gt;&lt;a href=&#34;https://twitter.com/hashtag/kosen10s?src=hash&#34;&gt;#kosen10s&lt;/a&gt; めちゃくちゃ楽しかった〜、5時間すら短い。参加者各位にブログを書いて欲しいという波動を送る…&lt;/p&gt;&amp;mdash; でなり (@denari01) &lt;a href=&#34;https://twitter.com/denari01/status/595362968868499456&#34;&gt;2015, 5月 4&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async src=&#34;//platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;p&gt;ハンドルネームとの間で身動きが取れず、参加したイベントの感想とかを書く場所がなかったので、「実名で」投稿できるブログが欲しくて作りました。&lt;/p&gt;
+
+&lt;p&gt;「無いなら作ればいい」ということで、ポートフォリオサイトを兼ねて作ってしまったというわけです。&lt;/p&gt;
+
+&lt;h2 id=&#34;技術的なところ:3a9acb5b31e55a8e7ef449f61cd25787&#34;&gt;技術的なところ&lt;/h2&gt;
+
+&lt;p&gt;URLからお察しのとおり、ホスティングには&lt;a href=&#34;https://pages.github.com/&#34;&gt;GitHub Pages&lt;/a&gt;を使っています。&lt;/p&gt;
+
+&lt;p&gt;システムには&lt;a href=&#34;http://gohugo.io/&#34;&gt;Hugo&lt;/a&gt;を使いました。これはJekyllとかOctopressみたいな静的ページ生成ツールで、Go言語で書かれています。(僕はGo言語を触ったことは全くありません)　先の２つに比べて非常に高速な動作を発揮することが特徴です。&lt;/p&gt;
+
+&lt;p&gt;テーマはコロコロ変わると思うので、テーマの出元はfooterを見ていただければと思います。テーマが有志の手で配布されているのですが、かなり豊富なラインナップを揃えていると思います。
+公式による&lt;a href=&#34;https://github.com/spf13/hugoThemes&#34;&gt;リポジトリ集&lt;/a&gt;があるので、Hugoを使う場合には要チェックです。&lt;/p&gt;
+
+&lt;h2 id=&#34;まとめ:3a9acb5b31e55a8e7ef449f61cd25787&#34;&gt;まとめ&lt;/h2&gt;
+
+&lt;p&gt;今までいくつかのブログを使って/作ってきましたが、静的な形式も悪く無いなと思ってきています。使い続けられそうです。&lt;/p&gt;
+
+&lt;p&gt;つくばに越してきて東京が近くなり、イベントに参加する機会も増える思うので、存分にこの場所を活用していきたいです。&lt;/p&gt;
+</description>
+        </item>
+      
+    
+      
+    
+
+  </channel>
+</rss>
