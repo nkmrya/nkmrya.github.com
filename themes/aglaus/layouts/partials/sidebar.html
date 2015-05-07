@@ -17,16 +17,15 @@
             </ul>
         </div>
         {{ end }}
-        {{ if isset .Site.Params "GravatarHash" }}
         <div id="profile">
             <div class="eyecatch">
-                <img id="photo" src="/images/nopicture.png" alt="profile">
+                <img id="photo" src="/images/{{ .Site.Params.Icon }}" alt="profile">
             </div>
             <div class="data">
                 {{ if isset .Site.Params "Birth" }}
                 <span class="post-date">{{ .Site.Params.Birth }}</span>
                 {{ end }}
-                <h1 id="username" class="post-title"></h1>
+                <h1 id="username" class="post-title">{{ .Site.Params.Author }}</h1>
                 {{ if isset .Site.Params "Facebook" }}
                 <a href="https://www.facebook.com/{{ .Site.Params.Facebook }}" target="_blank"><i class="fa fa-facebook-square"></i></a>
                 {{ end }}
@@ -36,11 +35,9 @@
                 {{ if isset .Site.Params "Github" }}
                 <a href="https://github.com/{{ .Site.Params.Github }}" target="_blank"><i class="fa fa-github-square"></i></a>
                 {{ end }}
-                <pre id="description"></pre>
+                <pre id="description">{{ .Site.Params.Description }}</pre>
                 <ul id="urls" class="post-tags"></ul>
             </div>
         </div>
-        {{ end }}
     </div>
 </aside>
-

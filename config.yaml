@@ -12,6 +12,8 @@ Params:
   ShowRelatedPost: True
   SyntaxHighlightTheme: "solarized_dark.min.css"
   ShowTagCloud: True
+  Description: "多分Web系を中心に活動してる大学生。元高専生。HaskellやりたいRubyist"
+  Icon: "yasuhiro.jpg"
 
 Indexes:
   tag: "tags"

@@ -25,21 +25,3 @@ ga('create', '{{ .Site.Params.GoogleAnalyticsUserID }}', 'auto');
 ga('send', 'pageview');
 
 </script>
-
-<!-- Gravatar -->
-<script>
-$(function() {
-    var url = "https://ja.gravatar.com/{{ .Site.Params.GravatarHash }}.json?callback=?";
-    $.getJSON(url)
-        .done(function(data) {
-            var entry = data.entry[0];
-            $("#photo").attr("src", entry.photos[0].value);
-            $("#username").html(entry.name.familyName + " " + entry.name.givenName);
-            $("#description").html(entry.aboutMe);
-            entry.urls.forEach(function(el){
-                $("#urls").append($("<li><a href='" + el.value + "'>" + el.title + "</a></li>"));
-            });
-            $("#profile").show();
-        });
-});
-</script>
