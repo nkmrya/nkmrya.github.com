@@ -2,7 +2,27 @@
 
 {{ $pagination := 10 }}
 
+{{ range .Data.Pages }}
+{{ if eq .Title "About me"}}
+<article class="post post-single">
+    <div class="eyecatch">
+        {{ if isset .Params "eyecatch" }}
+        <img src="{{ .Site.BaseUrl }}/images/{{ .Params.eyecatch }}" alt="{{ .Title }}">
+        {{ else }}
+        <img src="{{ .Site.BaseUrl }}/images/nopicture.png" alt="no_picture">
+        {{ end }}
+    </div>
+
+    <div class="post-content">
+        {{ .Content }}
+    </div>
+</article>
+{{ end }}
+{{ end }}
+
+
 <div class="posts">
+    <h2>Entries</h2>
     {{ range first $pagination .Data.Pages }}
     {{ if eq .Type "post"}}
     {{ .Render "li" }}
