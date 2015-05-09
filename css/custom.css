@@ -5,3 +5,7 @@
 #photo {
   width: 82px;
 }
+
+.post-content img {
+  max-width: 70%;
+}
