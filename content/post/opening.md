@@ -6,7 +6,7 @@ title: 中村屋オープン
 ---
 ポートフォリオサイト「中村屋」がオープンしました。皆様、これからよろしくお願いいたします。
 ## 経緯
-[kosen10'sLT #01](https://kosen10s.doorkeeper.jp/events/23895)に参加した時に主催の[でなり]が一言
+[kosen10'sLT #01](https://kosen10s.doorkeeper.jp/events/23895)に参加した時に主催のでなりが一言
 
 <blockquote class="twitter-tweet" lang="ja"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/kosen10s?src=hash">#kosen10s</a> めちゃくちゃ楽しかった〜、5時間すら短い。参加者各位にブログを書いて欲しいという波動を送る…</p>&mdash; でなり (@denari01) <a href="https://twitter.com/denari01/status/595362968868499456">2015, 5月 4</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
