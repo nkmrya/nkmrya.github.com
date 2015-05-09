@@ -3,6 +3,7 @@ slug: opening
 date: 2015-05-07T20:18:13+09:00
 eyecatch: "hugo.png"
 title: 中村屋オープン
+tags: [GitHub, Hugo, GitHub Pages]
 ---
 ポートフォリオサイト「中村屋」がオープンしました。皆様、これからよろしくお願いいたします。
 ## 経緯
