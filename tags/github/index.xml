@@ -2,62 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nakamura-Ya </title>
-    <link>https://nkmrya.github.io/</link>
+    <link>https://nkmrya.github.io/tags/github/</link>
     <language>en-us</language>
     <author>NAKAMURA Yasuhiro</author>
     <rights>(C) 2015</rights>
-    <updated>2015-05-09 16:15:05 &#43;0900 JST</updated>
+    <updated>2015-05-07 20:18:13 &#43;0900 JST</updated>
 
-    
-      
-        <item>
-          <title>kosen10&#39;sLT #1に参加してきました</title>
-          <link>https://nkmrya.github.io/blog/2015/05/09/kosen10s-lt/</link>
-          <pubDate>Sat, 09 May 2015 16:15:05 JST</pubDate>
-          <author>NAKAMURA Yasuhiro</author>
-          <guid>https://nkmrya.github.io/blog/2015/05/09/kosen10s-lt/</guid>
-          <description>&lt;p&gt;2015-05-04（月）に開催された&lt;a href=&#34;https://kosen10s.doorkeeper.jp/events/23895&#34;&gt;kosen10&amp;rsquo;sLT #1&lt;/a&gt;に参加してきました！　この会は2010年に高専へ入学した人たちが集まってLTをしようという会で、情報系高専生を中心に自己紹介や近況報告を行いました。&lt;/p&gt;
-
-&lt;p&gt;当日は自己紹介LTの部とフリー発表の部の２部構成で、どちらの部もかなり盛り上がり、制限時間いっぱいまで楽しむことができました！&lt;/p&gt;
-
-&lt;p&gt;僕は自己紹介LTで発表したのですが、内容としては&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;茨城Haskell高専の中の人だったけどHaskellerではない&lt;/li&gt;
-&lt;li&gt;Rubyが好きだけどRailsは使ったことない&lt;/li&gt;
-&lt;li&gt;Web分野で活動してます&lt;/li&gt;
-&lt;li&gt;プロコン勢のためのWebサービスを作った/稼働中の話&lt;/li&gt;
-&lt;li&gt;クロスプラットフォームGUIができるまともな言語が欲しい&lt;/li&gt;
-&lt;li&gt;そのためにRubyのコンパイラが作りたい&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;こんな感じです。僕の場合、単に自分の興味のあることを話して山なしオチなしだったので、伝える能力をつけたいなぁと思う発表になりました。&lt;/p&gt;
-
-&lt;p&gt;他の参加者の自己紹介で、特に印象的なものは&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;蟻がすごい&lt;/li&gt;
-&lt;li&gt;アイカツ土台とし、Vimという環境の中のPerlの元で人の営みが……&lt;/li&gt;
-&lt;li&gt;&amp;ldquo;&lt;a href=&#34;http://www.tsukuba.ac.jp/about/branding/messagesong.html&#34;&gt;IMAGINE THE FUTURE&lt;/a&gt;&amp;ldquo;の布教活動が行われる&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;第２部のフリー発表ではもっと濃い内容で発表が行なわれました&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;ルーター芸人の活動について(&lt;a href=&#34;http://www.slideshare.net/takumisueda/lt01-1-routerslideshare&#34;&gt;slideshare&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;マイコンはデータシートを見よう。でもArduino最高！&lt;/li&gt;
-&lt;li&gt;研究室のオートロックをFeliCaで解除できるようにした&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;などなど書ききれないほど面白い発表だらけで、素晴らしい時間でした！&lt;/p&gt;
-
-&lt;p&gt;個人的に嬉しかったこととしては、「Rubyのコンパイラが作りたい」に反応してくれた人がいて、
-基盤技術の話やらPythonでの事例やらと極度に技術的な内容の話ができたのが嬉しい/楽しかったです。&lt;/p&gt;
-
-&lt;p&gt;次回kosen10&amp;rsquo;sLT #2は2015年夏に行われるみたいなので、また参加したいです。今度はRubyのコンパイラの進捗なんかを発表できたらなと思います。　これを見てくれた同い年の元高専生たちも参加してくれると嬉しいです！&lt;/p&gt;
-</description>
-        </item>
-      
     
       
         <item>
@@ -97,8 +47,6 @@
 &lt;p&gt;つくばに越してきて東京が近くなり、イベントに参加する機会も増える思うので、存分にこの場所を活用していきたいです。&lt;/p&gt;
 </description>
         </item>
-      
-    
       
     
 
